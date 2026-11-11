@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+peft
+accelerate
+bitsandbytes
+scikit-learn
+pandas
+optuna
+# Optional: required for 70B models
+flash-attn
