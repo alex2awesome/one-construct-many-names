@@ -1,10 +1,10 @@
 # One Construct, Many Names
 
-**LLMs Instruct Each Other Formally, and the Choice of Name Steers the Judge**
+**Synonyms Yield Divergent Judgements**
 
 Alexander Spangher, Daniel E. Ho, Sanmi Koyejo, Diyi Yang (Stanford University)
 
-Paper: [`paper/Spangher_Ho_Koyejo_Yang__One_Construct_Many_Names__2026-11-10.pdf`](paper/Spangher_Ho_Koyejo_Yang__One_Construct_Many_Names__2026-11-10.pdf)
+Paper: [`paper/Spangher_Ho_Koyejo_Yang__One_Construct_Many_Names__2026-11-10.pdf`](paper/Spangher_Ho_Koyejo_Yang__One_Construct_Many_Names__2026-11-10.pdf), also at https://www.alexander-spangher.com/papers/One_Construct_Many_Names.pdf
 
 LLM judges are guided by prompts, constitutions and rubrics that verbalize normative criteria, and the
 same criterion is named differently by different communities. We present a large-scale analysis of
@@ -46,10 +46,10 @@ replaced by placeholders before release; commenter names in the register corpora
 
 ```bibtex
 @misc{spangher2026oneconstruct,
-  title  = {One Construct, Many Names: {LLMs} Instruct Each Other Formally, and the Choice of Name Steers the Judge},
+  title  = {One Construct, Many Names: Synonyms Yield Divergent Judgements},
   author = {Spangher, Alexander and Ho, Daniel E. and Koyejo, Sanmi and Yang, Diyi},
   year   = {2026},
   note   = {Preprint},
-  url    = {https://github.com/alex2awesome/one-construct-many-names}
+  url    = {https://www.alexander-spangher.com/papers/One_Construct_Many_Names.pdf}
 }
 ```
